@@ -6,6 +6,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 ## [Unreleased] - YYYY-MM-DD
 #### Added
 #### Changed
+- Updated to `storybook-3`.
 #### Deprecated
 #### Removed
 #### Fixed
